@@ -7,7 +7,7 @@ obteve dois prêmios mais rápido.
 
 ## Estrutura do Projeto
 
-Explique a estrutura do seu projeto e como os arquivos e diretórios estão organizados.
+Este projeto foi desenvolvido usando arquitetura MVC e utilizando conseitos de DDD.
 
 ```plaintext
 goldenRaspberryAwards/
