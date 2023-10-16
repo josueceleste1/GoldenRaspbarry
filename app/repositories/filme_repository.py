@@ -106,7 +106,6 @@ def obter_maior_intervalo_e_premio_mais_rapido():
                         menor_intervalo["previousWin"] = premios[-2]
                         menor_intervalo["followingWin"] = premios[-1]
 
-    # Feche a conexão com o banco de dados
     conn.close()
 
     return {"min": [menor_intervalo], "max": [maior_intervalo]}
